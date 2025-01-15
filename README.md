@@ -13,21 +13,21 @@ We are offering a fully funded IELTS training scholarship designed to help stude
     <tr>
       <td align="center">
         <a href="https://github.com/MohSaqlainn">
-        <img src="https://avatars.githubusercontent.com/u/77551019?v=4" width="100px;" alt="Muhammad Saqlain"/>
+        <img src="https://avatars.githubusercontent.com/u/77551019?v=4" width="300px;" alt="Muhammad Saqlain"/>
           <br />
           <sub><b>Muhammad Saqlain</b></sub>
         </a> 
       </td>
       <td align="center">
         <a href="https://www.linkedin.com/in/umarmajeedofficial/">
-          <img src="https://media.licdn.com/dms/image/v2/D4D03AQHIX-rvPa8dGg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730367348647?e=1742428800&v=beta&t=j9JnqpmOklQxQL57AZdBt1kd0cfP0cSlK8MMN0RfejA" width="100px;" alt="Zartashia Afzal"/>
+          <img src="https://media.licdn.com/dms/image/v2/D4D03AQHIX-rvPa8dGg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730367348647?e=1742428800&v=beta&t=j9JnqpmOklQxQL57AZdBt1kd0cfP0cSlK8MMN0RfejA" width="300px;" alt="Zartashia Afzal"/>
           <br />
           <sub><b>Umar Majeed</b></sub>
         </a> 
       </td>
       <td align="center">
         <a href="https://www.linkedin.com/in/anzarahmad100/">
-          <img src="https://media.licdn.com/dms/image/v2/D4D03AQHdeCo2EQV-mg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1727358433011?e=1742428800&v=beta&t=Q9oHrwTwoStyIGlZsL9Iesc_qLDYt0M7aP8fTf4Arts" width="100px;" alt="Umar Majeed"/>
+          <img src="https://media.licdn.com/dms/image/v2/D4D03AQHdeCo2EQV-mg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1727358433011?e=1742428800&v=beta&t=Q9oHrwTwoStyIGlZsL9Iesc_qLDYt0M7aP8fTf4Arts" width="300px;" alt="Umar Majeed"/>
           <br />
           <sub><b>Anzar Ahmad</b></sub>
         </a> 
@@ -35,6 +35,7 @@ We are offering a fully funded IELTS training scholarship designed to help stude
    </tr>
   </tbody>
 <table>
+
 # Course Outline
 
 ### Learning Objectives
