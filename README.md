@@ -36,8 +36,6 @@ We are offering a fully funded IELTS training scholarship designed to help stude
   </tbody>
 <table>
 
-# Course Outline
-
 ### Learning Objectives
 By the end of this course, students will be able to:
 - Grasp the fundamental structure of the IELTS test.
@@ -61,6 +59,13 @@ By the end of this course, students will be able to:
 - Daily exercises focused on individual question types, with increasing difficulty.
 - Mock Tests: Full-Length Listening Mock Tests under exam conditions.
 
+#### Schedule:
+- **Day 1** (06-Jan-25): [IELTS Introduction](https://fb.watch/wZ1Lnf9NjM/)
+- **Day 2** (07-Jan-25): [IELTS Listening Exercise](https://fb.watch/wZ1EKcRSak/)
+- **Day 3** (08-Jan-25): [Listening Exercise and Q&A](https://fb.watch/w_8Xlz5ez-/)
+- **Day 4** (09-Jan-25): [Listening Exercise, Test 2](https://www.facebook.com/share/v/187ZJCtezT/)
+- **Day 5** (10-Jan-25): [Listening Exercise, Test 3 Complete](https://www.facebook.com/share/v/19msU813bR/)
+
 ### Week 2: Reading Module (13 January 2025 – 17 January 2025)
 #### Topics Covered:
 - Introduction & Overview
@@ -83,6 +88,13 @@ By the end of this course, students will be able to:
 - Special emphasis on handling "in-order" vs. "not-in-order" questions.
 - Continued exercises with advanced tips for maximizing efficiency and accuracy.
 - Mock Tests: Full-Length Reading Mock Tests with mixed question types.
+
+#### Schedule:
+- **Day 1** (13-Jan-25): [IELTS Reading Introduction](https://fb.watch/x61cj5KNbb/)
+- **Day 2** (14-Jan-25): [IELTS Reading Hacks and Test Overview](https://fb.watch/x61eEBa2kb/)
+- **Day 3**: [Details Pending]
+- **Day 4**: [Details Pending]
+- **Day 5**: [Details Pending]
 
 ### Week 3: Writing Module (20 January 2025 – 24 January 2025)
 #### Task 1 Focus:
@@ -114,11 +126,11 @@ By the end of this course, students will be able to:
 
 ### Resources for IELTS Preparation
 - **Books**:
-  - Cambridge Books (1–19)
+  - [Cambridge Books](https://drive.google.com/file/d/1-6xCuJ7F85X_dUKpuK84F1jU-Z1-h8tC/view) (1–19)
 - **Online Platforms**:
-  - IELTS Liz for Listening and Writing guides.
-  - IELTSolve for Listening and Reading practice.
-  - IELTS Test Simulation for mock tests.
-  - IELTS Training Online for community-driven IELTS tips and tests.
-  - IELTS Worldly for free practice tests and Cambridge resources.
+  - [IELTS Liz](https://ieltsliz.com/ielts-listening/) for Listening and Writing guides.
+  - [IELTSolve](https://www.ieltsolve.com/) for Listening and Reading practice.
+  - [IELTS Test Simulation](https://www.ieltstestsimulation.com/) for mock tests.
+  - [IELTS Training Online](https://ieltstrainingonline.com/) for community-driven IELTS tips and tests.
+  - [IELTS Worldly](https://www.ieltsworldly.com/) for free practice tests and Cambridge resources.
 
