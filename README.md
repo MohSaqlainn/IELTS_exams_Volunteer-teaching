@@ -14,17 +14,17 @@ We are offering a fully funded IELTS training scholarship designed to help stude
         </a> 
       </td>
       <td align="center">
-        <a href="https://github.com/A5jadAli">
-          <img src="https://avatars.githubusercontent.com/u/123229279?v=4" width="100px;" alt="Asjad_Ali"/>
+        <a href="https://www.linkedin.com/in/umarmajeedofficial/">
+          <img src="https://media.licdn.com/dms/image/v2/D4D03AQHIX-rvPa8dGg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730367348647?e=1742428800&v=beta&t=j9JnqpmOklQxQL57AZdBt1kd0cfP0cSlK8MMN0RfejA" width="100px;" alt="Zartashia Afzal"/>
           <br />
-          <sub><b>Asjad Ali</b></sub>
+          <sub><b>Umar Majeed</b></sub>
         </a> 
       </td>
       <td align="center">
-        <a href="https://github.com/zartashiafzal">
-          <img src="https://avatars.githubusercontent.com/u/65966739?v=4" width="100px;" alt="Zartashia Afzal"/>
+        <a href="https://www.linkedin.com/in/anzarahmad100/">
+          <img src="https://media.licdn.com/dms/image/v2/D4D03AQHdeCo2EQV-mg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1727358433011?e=1742428800&v=beta&t=Q9oHrwTwoStyIGlZsL9Iesc_qLDYt0M7aP8fTf4Arts" width="100px;" alt="Umar Majeed"/>
           <br />
-          <sub><b>Zartashia Afzal</b></sub>
+          <sub><b>Anzar Ahmad</b></sub>
         </a> 
       </td>
    </tr>
