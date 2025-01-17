@@ -92,9 +92,9 @@ By the end of this course, students will be able to:
 #### Schedule:
 - **Day 1** (13-Jan-25): [IELTS Reading Introduction](https://fb.watch/x61cj5KNbb/)
 - **Day 2** (14-Jan-25): [IELTS Reading Hacks and Test Overview](https://fb.watch/x61eEBa2kb/)
-- **Day 3**: [Details Pending]
-- **Day 4**: [Details Pending]
-- **Day 5**: [Details Pending]
+- **Day 3**: [Reading Mock Test from Cambridge Book 19 Test 1](https://fb.watch/x9ItHF5_E_/)
+- **Day 4**: [Reading Mock Test from Cambridge Book 19 Test 1 Remaining](https://fb.watch/x9IrfvftLp/)
+- **Day 5**: [Reading Mock Test from Cambridge Book 19 Test 2](https://www.facebook.com/iCodeguru/videos/2046866172443475)
 
 ### Week 3: Writing Module (20 January 2025 – 24 January 2025)
 #### Task 1 Focus:
